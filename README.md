@@ -13,10 +13,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/gunna-rahul-91b69125b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gunna-rahul-91b69125b" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/gunna_rahul" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="gunna_rahul" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ra2111003011481" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ra2111003011481" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/gunna_rahul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gunna_rahul" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gunna-rahul-91b69125b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/gunna-rahul-91b69125b" height="30" width="40" /></a>
+<a href="https:https://www.codechef.com/users/gunna_rahul" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/gunna_rahul" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/RA2111003011481" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/ra2111003011481" height="30" width="40" /></a>
+<a href="https://leetcode.com/gunna_rahul/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/gunna_rahul/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
