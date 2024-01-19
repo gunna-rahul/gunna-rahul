@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gunna-rahul" alt="gunna-rahul" /></a> </p>
 
-- 🔭 I’m currently working on **Air Quality Prediction**
+- 🔭 I’m currently working on **Keeme(IOS App),Portfolio website**
 
-- 🌱 I’m currently learning **Machine Learning,JAVA**
+- 🌱 I’m currently learning **JavaScript,DSA**
 
 - 📫 How to reach me **rahulgunna25@gmail.com**
 
