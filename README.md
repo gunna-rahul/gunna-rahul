@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gunna-rahul" alt="gunna-rahul" /></a> </p>
 
-- 🔭 I’m currently working on **Keeme(IOS App),Portfolio website**
+- 🔭 I’m currently working on **SONiC**
 
-- 🌱 I’m currently learning **JavaScript,DSA**
+- 🌱 I’m currently learning **Go,DSA**
 
 - 📫 How to reach me **rahulgunna25@gmail.com**
 
